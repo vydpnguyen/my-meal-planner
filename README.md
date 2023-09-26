@@ -1,7 +1,5 @@
 # My Meal Planner
 
-Live Demo: https://www.figma.com/file/84l6cjhJpR0c83HfmvahGG/My-Meal-Planner?node-id=0%3A1&t=4x8Vmzwt654RsFV0-1
-
 <img src="screen-1.jpg" height="600"> <img src="screen-2.jpg" height="600">
 
 ## Team Members
@@ -27,7 +25,19 @@ Our project aims to address the above meal planning challenges by creating a use
 - Option to add or remove meals
 - Search bar to search for specific recipes
 
-## Application Design
+## Interactive Figma Prototype
+Live Demo: https://www.figma.com/file/84l6cjhJpR0c83HfmvahGG/My-Meal-Planner?node-id=0%3A1&t=4x8Vmzwt654RsFV0-1
+
+Prototype Task List:
+1. Log in with an account
+2. View your profile
+3. Add Blueberry Pancakes for Breakfast for Saturday, March 25
+4. Search for Lunch Vietnamese Pho and add it Saturday, March 25
+5. View your grocery list
+6. Remove Vietnamese Pho
+7. Filter Lunch recipes with cook time from 20 - 40 minutes.
+8. Mark Tomato Soup as your favorite
+
 <img src="hf-1.PNG" height="600">
 Login Screen
 
@@ -42,19 +52,6 @@ Filter Screen
 
 <img src="hf-3.PNG" height="600">
 Daily Calendar View
-
-## Interactive Figma Prototype
-Live Demo: https://www.figma.com/file/84l6cjhJpR0c83HfmvahGG/My-Meal-Planner?node-id=0%3A1&t=4x8Vmzwt654RsFV0-1
-
-Prototype Task List:
-1. Log in with an account
-2. View your profile
-3. Add Blueberry Pancakes for Breakfast for Saturday, March 25
-4. Search for Lunch Vietnamese Pho and add it Saturday, March 25
-5. View your grocery list
-6. Remove Vietnamese Pho
-7. Filter Lunch recipes with cook time from 20 - 40 minutes.
-8. Mark Tomato Soup as your favorite
 
 ## Lessons Learned
 1. Start Simple And Create A List of Ideas: 
