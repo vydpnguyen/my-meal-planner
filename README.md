@@ -2,9 +2,7 @@
 
 Live Demo: https://www.figma.com/file/84l6cjhJpR0c83HfmvahGG/My-Meal-Planner?node-id=0%3A1&t=4x8Vmzwt654RsFV0-1
 
-<img src="screen-1.jpg" height="600">
-
-<img src="screen-2.jpg" height="600">
+<img src="screen-1.jpg" height="600"> <img src="screen-2.jpg" height="600">
 
 ## Team Members
 - Vy Nguyen
