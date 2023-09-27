@@ -19,11 +19,12 @@ Many people struggle with meal planning due to various reasons:
 Our project aims to address the above meal planning challenges by creating a user-friendly and intuitive meal planning app prototype. The app will provide accessible, healthy meal options, suitable for a variety of dietary needs and budgets while maintaining a balance between features and designs. Our target audience primarily includes college students and individuals looking for assistance in meal planning to maintain a healthier lifestyle.
 
 ## Key Features
-- Grocery list lenerator
-- Nutritional information
-- Daily/weekly/monthly calendar view
+- Grocery list generator
+- Nutritional information for each recipe
 - Option to add or remove meals
-- Search bar to search for specific recipes
+- Search bar to search by name
+- Filter for specific reciples
+- Daily/weekly/monthly calendar view
 
 ## Interactive Figma Prototype
 Live Demo: https://www.figma.com/file/84l6cjhJpR0c83HfmvahGG/My-Meal-Planner?node-id=0%3A1&t=4x8Vmzwt654RsFV0-1
