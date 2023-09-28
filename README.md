@@ -39,20 +39,11 @@ Prototype Task List:
 7. Filter Lunch recipes with cook time from 20 - 40 minutes.
 8. Mark Tomato Soup as your favorite
 
-<img src="hf-1.PNG" height="600">
-Login Screen
+<img src="hf-1.PNG" height="600" alt="Login Screen"> <img src="hf-6.PNG" height="600" alt="Recipe List View">
 
-<img src="hf-6.PNG" height="600">
-Recipe List View
+<img src="hf-2.PNG" height="600" alt="Recipe Info Screen"> <img src="hf-4.PNG" height="600" alt="Filter Screen">
 
-<img src="hf-2.PNG" height="600">
-Recipe Info Screen
-
-<img src="hf-4.PNG" height="600">
-Filter Screen
-
-<img src="hf-3.PNG" height="600">
-Daily Calendar View
+<img src="hf-3.PNG" height="600" alt="Daily Calendar View">
 
 ## Lessons Learned
 1. Start Simple And Create A List of Ideas: 
